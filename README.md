@@ -1,5 +1,6 @@
 
 Titanic Dataset – Data Cleaning & Preprocessing
+
 Internship Task | AI & Machine Learning
 This project is part of my AI & ML internship, where I performed data cleaning and preprocessing on the Titanic dataset using Python. The goal was to prepare raw data for machine learning by addressing missing values, encoding categorical variables, scaling numerical features, and removing outliers.
 
